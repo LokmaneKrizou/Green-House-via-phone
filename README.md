@@ -25,7 +25,7 @@ Tools you need :
    
    -Heater
   
-   The Arduino code and android app are shown bellow 
+   The Arduino code and android app are shown above. 
    for the Android app its the terial version so it may have some mistakes , there will be an upgrade as soon as possible for the final version 
    
   Stay tuned. 
