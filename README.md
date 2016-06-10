@@ -1,31 +1,31 @@
 # Green-House-via-phone
 this project is about controlling garden and farm via Arduino and Android application using Bluetooth module 
 
-tools you need :
+Tools you need :
 
 1-sensors:
 
-  light sensor (LDR)
+  -Light sensor (LDR)
   
-  humidity sensor
+  -Humidity sensor
   
-  Temperature sensor
+  -Temperature sensor
   
-  soil moisture sensor
+  -Soil moisture sensor
 
 2-Actuators: 
 
-   solenoid valve
+   -Solenoid valve
    
-   leds
+   -Leds
    
-   dc fun
+   -Dc fun
+  
+   -Humidifier
    
-   humidifier
-   
-   heater
+   -Heater
   
    The Arduino code and android app are shown bellow 
-   for the android app its the terial version so it may have some mistakes , there will be an upgrade as soon as possible for the final version 
+   for the Android app its the terial version so it may have some mistakes , there will be an upgrade as soon as possible for the final version 
    
   Stay tuned. 
